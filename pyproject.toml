@@ -1,6 +1,6 @@
 [project]
 name = "Front11_plus"
-version = "0.1.1"
+version = "0.1.2"
 description = "Default template for PDM package"
 authors = [
     {name = "minju210", email = "juliana6190210@gmail.com"},
@@ -13,6 +13,3 @@ license = {text = "MIT"}
 
 [tool.pdm]
 distribution = true
-
-[project.scripts]
-Front11-plus = 'Front11_plus.Front11_plus:plus'
