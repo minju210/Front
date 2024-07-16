@@ -13,3 +13,6 @@ license = {text = "MIT"}
 
 [tool.pdm]
 distribution = true
+
+[project.scripts]
+Front11-plus = 'Front11_plus.Front11_plus:plus'
